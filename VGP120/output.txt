@@ -1,0 +1,16 @@
+20
+BUST
+19
+19
+BUST
+13
+12
+12
+21
+21
+21
+Error
+Error
+Error
+BUST
+EOF, closing. 
